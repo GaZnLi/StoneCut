@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1530337764 source:d:\大二下\算法\作业\作业二：石块切割（递归）\stonecut\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<vector>
+
+1530422431 source:d:\大二下\算法\作业\作业二：石块切割（贪心算法）\stonecut\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<vector>
+
+1530445704 source:d:\大二下\算法\作业\（大作业）作业六：石块切割（贪心算法）\stonecut\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<vector>
+
+1530597255 source:d:\大二下\算法\作业\（大作业）作业六：石块切割\stonecut\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<algorithm>
+	<vector>
+
